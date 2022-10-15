@@ -1,6 +1,3 @@
-# @Author: Shekhar Upreti
-# @Date: 17/09/2022
-
 # MasterMind gives the complete abstraction of functionality of a guess game.
 # The game generates a secret code(digits based upon the NUMBER_OF_DIGITS constant).
 # The user then has to guess the number in the given number of chances(MAXIMUM_NUMBER_OF_GUESSES).
