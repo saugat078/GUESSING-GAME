@@ -1,0 +1,3 @@
+# game constanst
+MAXIMUM_NUMBER_OF_GUESSES = 10
+NUMBER_OF_DIGITS = 3
